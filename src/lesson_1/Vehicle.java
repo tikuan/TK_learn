@@ -8,6 +8,6 @@ public class Vehicle {
 		System.out.println("Stopping my engine");
 	}
 	public void accelerate() {
-		System.out.println("accelerating myself...");
+		System.out.println("accelerating myself.**..");
 	}
 }
